@@ -92,7 +92,7 @@ h6 {
 .button {
   text-align: center;
   display: flex;
-  justify-content: space-evenly;
+  justify-content: space-between;
   margin-top: 80px;
 }
 
