@@ -23,4 +23,4 @@ This is a repository created by me to show the results of SASS exercise on BeCod
 #### Part 2 ✔
 #### Part 3 ✔
 
-![](https://giphy.com/gifs/cbs-the-neighborhood-theneighborhood-cedric-entertainer-1EZndgKGWsm3FJYSXE)
+![](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHNnbm9oYjlwZHlyangxZmg2N2hnMDJkaTJkaHlra2o5dDhrY3FuciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1EZndgKGWsm3FJYSXE/giphy.gif)
