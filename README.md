@@ -23,4 +23,4 @@ This is a repository created by me to show the results of SASS exercise on BeCod
 #### Part 2 ✔
 #### Part 3 ✔
 
-![](https://giphy.com/clips/britneyspears-britney-spears-oops-i-did-it-again-jpctIaLRTNCKKGiyPd)
+![](https://giphy.com/gifs/cbs-the-neighborhood-theneighborhood-cedric-entertainer-1EZndgKGWsm3FJYSXE)
